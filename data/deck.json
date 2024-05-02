@@ -1,0 +1,7 @@
+{
+    "name": "User deck",
+    "flashcards": [{
+        "back": "Bye",
+        "front": "Hi"
+    }]
+}

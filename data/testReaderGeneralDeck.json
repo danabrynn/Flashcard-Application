@@ -1,0 +1,13 @@
+{
+    "name": "General deck",
+    "flashcards": [
+        {
+            "front": "Front card 1",
+            "back": "Back card 1"
+        },
+        {
+            "front": "Front card 2",
+            "back": "Back card 2"
+        }
+    ]
+}

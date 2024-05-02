@@ -1,0 +1,13 @@
+{
+    "name": "My deck",
+    "flashcards": [
+        {
+            "back": "Goodbye",
+            "front": "Hello"
+        },
+        {
+            "back": "Sun",
+            "front": "Moon"
+        }
+    ]
+}

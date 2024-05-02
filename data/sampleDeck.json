@@ -1,0 +1,29 @@
+{
+    "name": "Sample deck",
+    "flashcards": [
+        {
+            "back": "Unicorn",
+            "front": "What is the national animal of Scotland?"
+        },
+        {
+            "back": "1991 (more broadly 1993)",
+            "front": "Year the world wide web went public"
+        },
+        {
+            "back": "86 billion",
+            "front": "Number of neurons in brain"
+        },
+        {
+            "back": "Uranus",
+            "front": "First planet to be discovered by telescope"
+        },
+        {
+            "back": "13 seconds",
+            "front": "How long was the longest recorded chicken flight?"
+        },
+        {
+            "back": "To check coffee levels in a coffee pot at Cambridge University",
+            "front": "What was the first webcam used for?"
+        }
+    ]
+}
